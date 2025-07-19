@@ -7,7 +7,7 @@ from streamlit_extras.stylable_container import stylable_container
 from datetime import datetime
 
 # Constants
-WEBHOOK_URL = "http://localhost:5678/webhook/chatbot-app"
+WEBHOOK_URL = "" // Enter here your webhook Url
 
 # Configuration de la page
 st.set_page_config(
